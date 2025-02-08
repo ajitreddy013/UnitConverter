@@ -16,4 +16,4 @@ A simple Android app built with Jetpack Compose that allows users to convert bet
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/ajitreddy013/UnitConverter.git
